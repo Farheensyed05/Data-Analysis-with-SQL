@@ -1,1 +1,1 @@
-# Data-Analysis-with-SQL
+# Data Analysis for Companies data using SQL
